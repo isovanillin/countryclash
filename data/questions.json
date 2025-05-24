@@ -1,0 +1,71 @@
+[
+    {
+        "question": "What was the primary nation that carried out Operation Barbarossa?",
+        "choices": ["Nazi Germany", "Kingdom of Italy", "Soviet Union", "Great Britain"],
+        "answer": "Nazi Germany",
+        "explanation": "After the signing of the Molotov–Ribbentrop Pact, where both parties agreed to peace, the Germans broke the pact and invaded the Soviets anyways. They viewed them as inferior, and wanted their land. They named their war plan 'Operation Barbarossa'."
+    },
+    {
+        "question": "Which of these nations first invaded the Kingdom of Greece during WW2?",
+        "choices": ["Kingdom of Hungary", "Wasn't invaded", "Kingdom of Italy", "Republic of Türkiye"],
+        "answer": "Kingdom of Italy",
+        "explanation": "Mussolini, the Italian prime minister wanting to remake the Roman Empire, invaded Greece during WW2 to do this. It wasn't going so well until the Germans arrived to aid the Italians, and Greece capitulated."
+    },
+    {
+        "question": "What is the current smallest nation in the world?",
+        "choices": ["Vatican City", "San Marino", "Luxembourg", "Armenia"],
+        "answer": "Vatican City",
+        "explanation": "After the annexation of the Papal States by the Kingdom of Italy, the Pope declared himself to be a prisoner of the Vatican. Mussolini, decades later, gifted the Pope the territory that would become the Vatican to build a good relationship. Its area is 0.19 sq miles."
+    },
+    {
+        "question": "Which of these nations are NOT in the European Union?",
+        "choices": ["Malta", "Cyprus", "Hungary", "Norway"],
+        "answer": "Norway"
+    },
+    {
+        "question": "Which of these nations have occupied Rome in the past?",
+        "choices": ["Great Britain", "Germany", "Russia", "Mongolia"],
+        "answer": "Germany",
+        "explanation": "Nazi Germany invaded Italy after it surrended to the Allies."
+    },
+    {
+        "question": "Which African country successfully resisted long-term colonization by a European power?",
+        "choices": ["Ethiopia", "Kenya", "Uganda", "Egypt"],
+        "answer": "Ethiopia",
+        "explanation": "While it was colonized at one, it eventually gained its independence after fighting back."
+    },
+    {
+        "question": "Which nation did the United States completely occupy at one point?",
+        "choices": ["Cuba", "Haiti", "Germany", "Canada"],
+        "answer": "Haiti"
+    },
+    {
+        "question": "Which of these sole nation accepted a significant amount of Jewish refugees during the Holocaust?",
+        "choices": ["Dominican Republic", "United States of America", "Great Britain", "Ireland"],
+        "answer": "Dominican Republic",
+        "explanation": "Under the dictatorship of Rafael Trujillo, he allowed Jewish refugees in so he could make the population whiter. It was both to build good relationships and out of racism."
+    },
+    {
+        "question": "Why was the Papal States annexed?",
+        "choices": ["A last resort made by Germany to recapture Italy after its surrender to the allies", "To reunify Italy under the Kingdom of Italy", "Under Bismarck, the Kingdom of Prussia aimed to take over the Catholic Church", "By an atheist force to prevent the spread of religion"],
+        "answer": "To reunify Italy under the Kingdom of Italy"
+    },
+    {
+        "question": "Which of these territories are separated from their mainland nation?",
+        "choices": ["Kaliningrad", "Istanbul", "Geneva", "Santo Domingo"],
+        "answer": "Kaliningrad",
+        "explanation": "Kaliningrad is a territory of the Russian Federation. It's a Russian city in the Baltics, bordered by Poland and Lithuania."
+    },
+    {
+        "question": "Who was the first leader of the Soviet Union?",
+        "choices": ["Gorbachev", "Stalin", "Bismarck", "Lenin"],
+        "answer": "Lenin",
+        "explanation": "Vladimir Lenin was the leader of the Bolshevik party, which followed Marx and Engles' communist manifesto. After the Russian Civil War, he was put in power until his death. After him, came Stalin."
+    },
+    {
+        "question": "Which nation detonated the first nuclear bomb?",
+        "choices": ["Nazi Germany", "Soviet Union", "Australia", "United States of America"],
+        "answer": "United States of America"
+    }
+]
+
