@@ -9,7 +9,7 @@ body{
         linear-gradient(to right, #3f3f3f 1px, transparent 1px),
         linear-gradient(to bottom, #3f3f3f 1px, transparent 1px);
         background-size: 45px 45px;
-        animation: moveGrid 10s linear infinite;
+        animation: moveGrid 9s linear infinite;
         will-change: background-position;
 }
 
@@ -36,7 +36,7 @@ button:hover{
 }
 
 .buttons{
-    margin-top: 20px
+    margin-top: 20px;
 }
 
 .instructs{
