@@ -84,7 +84,7 @@ button:hover{
 }
 
 .anbu{
-    border: 1.4x solid black;
+    border: 1.4px solid black;
     cursor: pointer;
     transition: 0.25s ease;
     width: 135px;
