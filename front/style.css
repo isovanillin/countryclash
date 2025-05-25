@@ -45,3 +45,52 @@ button:hover{
 .hostmenu{
     text-align: center;
 }
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 14px;
+    border-bottom: 2px solid white;
+    
+    
+}
+
+.primary{
+    border: 3px solid white;
+    margin: 40px auto;
+    padding: 20px;
+    width: 81%;
+    box-sizing: border-box;
+    text-align: center;
+    transition: 0.25s ease;
+    height: 300px;
+}
+
+.teams{
+    font-size: 15px;
+    font-family:'Ancizar Serif', Times, serif;
+    padding-inline: 50px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.question{
+    font-size: 45px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+.anbu{
+    border: 1.4x solid black;
+    cursor: pointer;
+    transition: 0.25s ease;
+    width: 135px;
+    height: 55px;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Space Mono', sans-serif;
+
+}
