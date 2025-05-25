@@ -94,3 +94,7 @@ button:hover{
     font-family: 'Space Mono', sans-serif;
 
 }
+
+.small{
+    font-size: 9px;
+}

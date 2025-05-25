@@ -20,7 +20,8 @@
     {
         "question": "Which of these nations are NOT in the European Union?",
         "choices": ["Malta", "Cyprus", "Hungary", "Norway"],
-        "answer": "Norway"
+        "answer": "Norway",
+        "explanation": "Norway wishes to not be an EU member to protect a multitude of its minerals and sea borders. However, it is a member of the European Economic Area, granting it access to the EU's market."
     },
     {
         "question": "Which of these nations have occupied Rome in the past?",
@@ -37,18 +38,14 @@
     {
         "question": "Which nation did the United States completely occupy at one point?",
         "choices": ["Cuba", "Haiti", "Germany", "Canada"],
-        "answer": "Haiti"
+        "answer": "Haiti",
+        "explanation": "It was occupied from 1915 to 1934, for its own economic and strategic interests. The political instability there was an important factor."
     },
     {
         "question": "Which of these sole nation accepted a significant amount of Jewish refugees during the Holocaust?",
         "choices": ["Dominican Republic", "United States of America", "Great Britain", "Ireland"],
         "answer": "Dominican Republic",
         "explanation": "Under the dictatorship of Rafael Trujillo, he allowed Jewish refugees in so he could make the population whiter. It was both to build good relationships and out of racism."
-    },
-    {
-        "question": "Why was the Papal States annexed?",
-        "choices": ["A last resort made by Germany to recapture Italy after its surrender to the allies", "To reunify Italy under the Kingdom of Italy", "Under Bismarck, the Kingdom of Prussia aimed to take over the Catholic Church", "By an atheist force to prevent the spread of religion"],
-        "answer": "To reunify Italy under the Kingdom of Italy"
     },
     {
         "question": "Which of these territories are separated from their mainland nation?",
@@ -64,8 +61,20 @@
     },
     {
         "question": "Which nation detonated the first nuclear bomb?",
-        "choices": ["Nazi Germany", "Soviet Union", "Australia", "United States of America"],
-        "answer": "United States of America"
+        "choices": ["Nazi Germany", "Soviet Union", "Australia", "United States"],
+        "answer": "United States", 
+        "explanation": "The US was the first nation to detonate a nuke, doing so in 1945 for the Manhattan Project."
+    },
+    {
+        "question": "What is the capital of the United States?",
+        "choices": ["New York City", "Ottawa", "Washington, D.C.", "Hollywood"],
+        "answer": "Washington, D.C.",
+        "explanation": "NYC is often considered the financial center. Ottawa is in Canada. Hollywood is an area in California. D.C. is the true capital."
+    },
+    {
+        "question": "Who was the Tsar of Russia overthrown during the Russian Revolution?",
+        "choices": ["Vladimir Lenin", "George XVI", "Pius III", "Nicholas II"],
+        "answer": "Nicholas II",
+        "explanation": "Lenin was the revolutionary leader who helped lead the overthrow of Nicholas II and took power. Pius III was a pope, and George XVI was King of England."
     }
 ]
-
