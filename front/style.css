@@ -31,7 +31,7 @@ button:hover{
 }
 
 .center{
-    text-align:center;
+    text-align: center;
 }
 
 .buttons{
@@ -52,9 +52,7 @@ button:hover{
     padding: 15px;
     font-weight: bold;
     font-size: 14px;
-    border-bottom: 2px solid white;
-    
-    
+    border-bottom: 2px solid white; 
 }
 
 .primary{
@@ -77,10 +75,8 @@ button:hover{
 }
 
 .question{
-    font-size: 45px;
+    font-size: 40px;
     text-align: center;
-    padding-top: 20px;
-    
 }
 
 .anbu{
@@ -92,7 +88,6 @@ button:hover{
     margin: 10px;
     text-align: center;
     font-family: 'Space Mono', sans-serif;
-
 }
 
 .small{

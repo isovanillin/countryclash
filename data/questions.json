@@ -76,5 +76,66 @@
         "choices": ["Vladimir Lenin", "George XVI", "Pius III", "Nicholas II"],
         "answer": "Nicholas II",
         "explanation": "Lenin was the revolutionary leader who helped lead the overthrow of Nicholas II and took power. Pius III was a pope, and George XVI was King of England."
+    },
+    {
+        "question": "What caused the American Civil War?",
+        "choices": ["Taxation", "Slavery", "Manifest Destiny", "Women's rights"],
+        "answer": "Slavery",
+        "explanation": "It was fought over slavery and states' rights, with the Southern states forming the Confederacy to preserve slavery."
+    },
+    {
+        "question": "Which nation was the birthplace of fascism?",
+        "choices": ["Italy", "United States", "Germany", "France"],
+        "answer": "Italy",
+        "explanation": "Fascism started in the Kingdom of Italy, with Benito Mussolini helping create the ideology."
+    },
+    {
+        "question": "Which treaty ended World War I?",
+        "choices": ["Treaty of Paris", "Roman Treaty", "Treaty of Versailles", "Treaty of Ghent"],
+        "answer": "Treaty of Versailles",
+        "explanation": "The Treaty of Versailles was signed in 1919, and imposed heavy reparations and territorial losses on the then-German Empire."
+    },
+    {
+        "question": "Who was the leader of the USSR during the Cuban Missile Crisis?",
+        "choices": ["Joseph Stalin", "Vladimir Steve", "Nikita Khrushchev", "Mikhail Gorbachev"],
+        "answer": "Nikita Krushchev",
+        "explanation": "Nikita Krushchev was the leader of the USSR during the Crisis in 1962. The crisis was over Soviet missiles in Cuba, posing a thread to the US."
+    },
+    {
+        "question": "What was the former name of Istanbul?",
+        "choices": ["Rome", "Constantinople", "Jersualem", "Germania"],
+        "answer": "Constantinople",
+        "explanation": "Constantinople was captured by the Ottomans (now Türkiye) from the Byzantines (now Greece)"
+    },
+    {
+        "question": "Which of these areas were once U.S. territory?",
+        "choices": ["Santo Domingo", "Moscow", "Istanbul", "Nice"],
+        "answer": "Santo Domingo",
+        "explanation": "The Dominican Republic was occupied by the United States from 1916-1924. Their capital was Santo Domingo."
+    },
+    {
+        "question": "Which of these was the largest empire?",
+        "choices": ["British Empire", "Roman Empire", "Spanish Empire", "Mongol Empire"],
+        "answer": "British Empire",
+        "explanation": "At its peak, it covered around a quarter of the Earth's land ara (13.71 million square miles). The Mongol Empire, the second largest, was around 9.27 million square miles."
+    },
+    {
+        "question": "Which new nation came from the partition of India by the British?",
+        "choices": ["Bangladesh", "Israel", "Afghanistan", "Cyprus"],
+        "answer": "Pakistan",
+        "explanation": "The British had divided it in two due to conflict between the Hindus and Muslims. This displaced millions and led to violence in both nations."
+    },
+    {
+        "question": "Which nation was attacked by the Soviet Union and Nazi Germany simultaneously?",
+        "choices": ["Great Britain", "Greece", "France", "Poland"],
+        "answer": "Poland",
+        "explanation": "After the signing of the Molotov–Ribbentrop Pact, where both parties agreed to peace, the Germans invaded West Poland, and the Soviets invaded East Poland."
+    },
+    {
+        "question": "Who was the prime minister of the Japanese Empire during World War 2?",
+        "choices": ["Hideki Tojo", "Fumio Kishida", "Hitoshi Ashida", "Mao Zedong"],
+        "answer": "Hideki Tojo",
+        "explanation": "Hideki Tojo was the prime minister of Japan during the second world war. He was later executed by the Allies for his war crimes and intense nationalism."
     }
 ]
+

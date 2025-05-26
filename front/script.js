@@ -1,8 +1,2 @@
-// placeholder
-// reminder to self: Node.js install
-
-// ,,
-
-const express = require('express')
-const app = express();
-const http = require("http")
+// express, node.js, and sockets.io have been downloaded
+// to-do list: javascript is really the only thing needed
